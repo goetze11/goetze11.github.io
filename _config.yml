@@ -3,7 +3,7 @@
 title: Ciara Goetze
 description: 'A page about how awesome I am'
 url: 'https://goetze11.github.io'
-baseurl: '/jekyll-uno/'
+baseurl:
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
