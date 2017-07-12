@@ -1,6 +1,6 @@
-<form>
-    <button formaction="http://goetze11.github.io/resume_page.html">My Resume</button>
-</form>
+<FORM METHOD="LINK" ACTION="https://goetze11.github.io/resume_page.html">
+<INPUT TYPE="submit" VALUE="My Resume">
+</FORM>
 ### **My name is Ciara!**
 ![Cat](/kitty.jpg)
 
