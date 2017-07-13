@@ -25,11 +25,9 @@ main {
 /*home page*/
 
 .img-circle {
-    border-radius: 50%;
-    height: 250px;
-    width: 250px;
-}
+    border-radius: 50%
 
+:wq
 }
 .intro {
     margin: 25vh 0;
