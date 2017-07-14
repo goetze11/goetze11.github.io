@@ -73,6 +73,11 @@ a:hover {
 
 .post-item {
     padding: 10px 0;
+    position: absolute;
+    top: 80px;
+    left: 100px;
+    width: 200px;
+    height: 25px; 
 }
 
 .project-item {
