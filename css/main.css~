@@ -72,9 +72,9 @@ a:hover {
 /*list item for posts and projects*/
 
 .post-item {
-    <DIV style="position:absolute;top:80px;left:100px;width:200px;height: 25px;"> 
-    padding: 10px 0;
-    </DIV>
+    position:relative;
+    left: -8vw;
+    padding: 10px 2px;
 }
 
 .project-item {
