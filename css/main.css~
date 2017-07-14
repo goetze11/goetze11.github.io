@@ -25,9 +25,11 @@ main {
 /*home page*/
 
 .img-circle {
-    border-radius: 50%
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+}
 
-:wq
 }
 .intro {
     margin: 25vh 0;
@@ -69,9 +71,13 @@ a:hover {
 
 /*list item for posts and projects*/
 
-.item {
+.post-item {
     padding: 10px 0;
 }
+
+.project-item {
+    padding: 10px 0;
+}    
 
 .item-tag {
     background-color: var(--accent);
