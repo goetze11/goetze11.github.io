@@ -72,9 +72,9 @@ a:hover {
 /*list item for posts and projects*/
 
 .post-item {
-    position:relative;
-    left: -8vw;
     padding: 10px 2px;
+    position:relative;
+    left: -12vw;
 }
 
 .project-item {
